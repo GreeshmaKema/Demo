@@ -14,7 +14,7 @@ public class HomePage {
 	public static By lnkBooks = By.xpath("//a[@href=\"/books\"]");
 	public static By btnHome =By.xpath("//a[@href=\"/\"]");
 	//To Register
-	public static By lnkRegister = By.xpath("//a[@href=\"/register\"]");
+	/*public static By lnkRegister = By.xpath("//a[@href=\"/register\"]");
 	public static By rbGender = By.id("gender-female");
 	public static By txtFirstname = By.id("FirstName");
 	public static By txtLastname = By.id("LastName");
@@ -22,7 +22,7 @@ public class HomePage {
 	public static By txtPassword = By.id("Password");
 	public static By txtConfirmpassword = By.id("ConfirmPassword");
 	public static By btnRegister = By.id("register-button");
-	public static By btnContinue = By.xpath("//input[@value='Continue']");
+	public static By btnContinue = By.xpath("//input[@value='Continue']");*/
 	//To login
 	public static By lnkLogin = By.xpath("//a[@href=\"/login\"]");
 	public static By txtemail = By.className("email");
