@@ -74,7 +74,7 @@ public class CartFunctions {
 		}
 		
 		// Registration process
-		public void Register(String Firstname, String Lastname, String Email, String Pwd, String ConfirmPwd) throws Exception
+		/*public void Register(String Firstname, String Lastname, String Email, String Pwd, String ConfirmPwd) throws Exception
 		{
 			StartBrowser.childTest = StartBrowser.parentTest.createNode("Register in DemoWeb shop");
 			aDriver.navigateToApplication("http://demowebshop.tricentis.com/");
@@ -87,7 +87,7 @@ public class CartFunctions {
 			aDriver.type(HomePage.txtConfirmpassword, ConfirmPwd, "confirm password text box");
 			aDriver.click(HomePage.btnRegister, "Register button");
 			aDriver.click(HomePage.btnContinue, "Continue button");
-		}
+		}*/
 		
 	//Login process
 		public void logIn(String email, String pwd) throws Exception
