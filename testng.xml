@@ -3,25 +3,25 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.mohs10.scripts.AddPhProductToCart"/>
-       <class name="com.mohs10.scripts.AddProductToCart"/>
-       <class name="com.mohs10.scripts.AddProductToWishList"/>
-       <class name="com.mohs10.scripts.Blogbtn"/>
-       <class name="com.mohs10.scripts.CompareList1"/>
-       <class name="com.mohs10.scripts.CompareList2"/>
-       <class name="com.mohs10.scripts.Contactus"/>
-       <class name="com.mohs10.scripts.InvalidLogIn"/>
-       <class name="com.mohs10.scripts.LoginAndOrder"/>
-       <class name="com.mohs10.scripts.LoginPage"/>
-       <class name="com.mohs10.scripts.NewProducts"/>
-       <class name="com.mohs10.scripts.Newsbtn"/>
-       <class name="com.mohs10.scripts.Recently_viewed_button1"/>
-       <class name="com.mohs10.scripts.Recently_viewed_button2"/>
-       <class name="com.mohs10.scripts.RegisterPage"/>
-       <class name="com.mohs10.scripts.ShippingandReturns"/>
-       <class name="com.mohs10.scripts.ShoppingCart"/>
-      <class name="com.mohs10.scripts.Sitemap_searchprodt"/>
-      <class name="com.mohs10.scripts.SubscribeToYoutube"/>
+      <class name="com.mohs.scripts.AddPhProductToCart"/>
+       <class name="com.mohs.scripts.AddProductToCart"/>
+       <class name="com.mohs.scripts.AddProductToWishList"/>
+       <class name="com.mohs.scripts.Blogbtn"/>
+       <class name="com.mohs.scripts.CompareList1"/>
+       <class name="com.mohs.scripts.CompareList2"/>
+       <class name="com.mohs.scripts.Contactus"/>
+       <class name="com.mohs.scripts.InvalidLogIn"/>
+       <class name="com.mohs.scripts.LoginAndOrder"/>
+       <class name="com.mohs.scripts.LoginPage"/>
+       <class name="com.mohs.scripts.NewProducts"/>
+       <class name="com.mohs.scripts.Newsbtn"/>
+       <class name="com.mohs.scripts.Recently_viewed_button1"/>
+       <class name="com.mohs.scripts.Recently_viewed_button2"/>
+       <class name="com.mohs.scripts.RegisterPage"/>
+       <class name="com.mohs.scripts.ShippingandReturns"/>
+       <class name="com.mohs.scripts.ShoppingCart"/>
+      <class name="com.mohs.scripts.Sitemap_searchprodt"/>
+      <class name="com.mohs.scripts.SubscribeToYoutube"/>
       
       
     </classes>
