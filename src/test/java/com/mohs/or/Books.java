@@ -8,7 +8,7 @@ public class Books {
 	// book text locator in recently viewed
 	public static By textBoook1 = By.xpath("//a[@href=\"/computing-and-internet\"]");
 	public static By imgBoook2 = By.xpath("//img[@src=\"http://demowebshop.tricentis.com/content/images/thumbs/0000133_fiction_125.jpeg\"]");
-	//public static By textimgBoook2 = By.xpath("//a[@href=\"/fiction\"][2]");
+	public static By textimgBoook2 = By.xpath("//a[@href=\"/fiction\"][2]");
 	
 }
 
